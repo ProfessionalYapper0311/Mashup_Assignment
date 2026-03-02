@@ -11,14 +11,15 @@
 5. **Email**: (Web Service) Zips the result and emails it to the user's correct email ID[cite: 39, 40].
 
 > **Note**: Since I used **Streamlit** to develop the web service, a separate `index.html` file was not required as the interface is rendered natively through Python.
-
+**Further updates will be made, this is an incremental/ongoing project and not representative of the final work**
 ---
 
 ## Program 1: Command Line Usage
-[cite_start]**File**: `102317201.py` [cite: 15]
+**File**: `102317201.py` [cite: 15]
 
 ### How to Run
-[cite_start]The program requires four parameters: Singer Name, Number of Videos, Audio Duration, and Output File Name[cite: 24].
+The program requires four parameters: Singer Name, Number of Videos, Audio Duration, and Output File Name[cite: 24].
 
 ```bash
 python 102317201.py <SingerName> <NumberOfVideos> <AudioDuration> <OutputFileName>
+
